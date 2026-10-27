@@ -1,4 +1,5 @@
 Hi, I'm Abu Nahid Sadi 
+
 Student from Bangladesh | Technology | AI | Educational Innovation
 
 I'm an HSC student from Bangladesh exploring how technology, research, and creative problem-solving can address real-world challenges.
@@ -46,9 +47,9 @@ Exploring ideas for improving learning experiences, supporting talented students
 
 # Find Me Online
 
-- Portfolio: "View my portfolio" (https://sites.google.com/view/abunahidsadi/home)
-- LinkedIn: "Connect with me" (https://www.linkedin.com/in/m-abu-nahid-sadi-08b0b7296)
-- GitHub: "Explore my repositories" (https://github.com/abunahidsadi)
+- Portfolio: (https://sites.google.com/view/abunahidsadi/home)
+- LinkedIn: (https://www.linkedin.com/in/m-abu-nahid-sadi-08b0b7296)
+- GitHub: (https://github.com/abunahidsadi)
 
 ---
 
