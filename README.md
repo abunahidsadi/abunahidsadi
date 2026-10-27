@@ -47,9 +47,12 @@ Exploring ideas for improving learning experiences, supporting talented students
 
  Find Me Online
 
-- Portfolio:(https://sites.google.com/view/abunahidsadi/home)
-- LinkedIn:(https://www.linkedin.com/in/m-abu-nahid-sadi-08b0b7296)
-- GitHub:(https://github.com/abunahidsadi)
+- Portfolio:
+- (https://sites.google.com/view/abunahidsadi/home)
+- LinkedIn:
+- (https://www.linkedin.com/in/m-abu-nahid-sadi-08b0b7296)
+- GitHub:
+- (https://github.com/abunahidsadi)
 
 ---
 
